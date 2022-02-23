@@ -415,6 +415,8 @@ h4 {
   font-family: inherit;
   color: #333;
   border-radius: 50%;
+  display: grid;
+  place-items: center;
   height: 5.5rem;
   width: 5.5rem;
   font-size: 3.25rem;
